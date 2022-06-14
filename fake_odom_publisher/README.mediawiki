@@ -1,2 +1,0 @@
-== fake_odom_publisher ==
-This package publishes fake odometry data and odometry transformations (TF) by listening to /cmd_topic.
