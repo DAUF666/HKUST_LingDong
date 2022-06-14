@@ -5,5 +5,5 @@
 
 3. Put the "uart_transmitter" to "navigation/src".
 
-4. Delete the "build" and "devel" files in "navigation" and use "catkin_make".
+4. Delete the "build" and "devel" files in "navigation" and use command "catkin_make".
 
